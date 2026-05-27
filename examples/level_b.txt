@@ -1,0 +1,12 @@
+Senior SDET — Quality Engineering
+
+Qualifications:
+- 7+ years test automation leadership
+- Strong Playwright framework design
+- API testing, REST, and contract validation
+- CI/CD ownership with GitHub Actions
+- pytest, test strategy, and mentoring juniors
+
+Preferred:
+- Docker, Kubernetes, and AWS
+- Observability with Splunk

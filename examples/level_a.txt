@@ -1,0 +1,11 @@
+SDET II — Quality Engineering
+
+Qualifications:
+- 3+ years test automation
+- Playwright or Selenium
+- API testing and REST
+- CI/CD with Jenkins or GitHub Actions
+- pytest and agile delivery
+
+Preferred:
+- Docker familiarity
